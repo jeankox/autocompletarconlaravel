@@ -2,7 +2,7 @@
 
 @section('content')
 
-
+<!-- input con estilo de tailwind-->
 <div class="max-w-md md:max-w-2xl  mx-auto">
   <input class="mt-3 rounded-xl" type="text"  id='product_search'>
 </div>
